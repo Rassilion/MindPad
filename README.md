@@ -48,3 +48,6 @@ Here, the past highscores of the player can be seen, which are stored in UserDef
 <p align="center">
 <img src="screens/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202018-01-02%20at%2019.09.52.png?raw=true" width="300">
 </p>
+
+## Contributors
+https://github.com/MYagizPehlivan and https://github.com/Rassilion
